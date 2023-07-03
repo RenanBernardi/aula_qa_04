@@ -3,4 +3,7 @@ mentira num vo
 vou toca o terror
 bomba quase pronta \o/
 bomba finalizada com sucesso iuh \o/
+<<<<<<< Updated upstream
 teste do usuario hehe
+usada com sucessoooooo
+
